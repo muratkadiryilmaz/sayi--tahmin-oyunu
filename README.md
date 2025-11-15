@@ -1,4 +1,4 @@
-# 🎯 Sayı Tahmin Oyunu (C Dili)
+🎯 Sayı Tahmin Oyunu (C Dili)
 
 📅 **Tarih:** 15.11.2025  
 🔗 **GitHub:** [github.com/muratkadiryilmaz/sayi--tahmin-oyunu](https://github.com/muratkadiryilmaz/sayi--tahmin-oyunu)  
@@ -21,10 +21,7 @@
 ---
 
 🧩 Kullanılan Teknolojiler
-- C  
-- `stdio.h`  
-- `stdlib.h`  
-- `time.h`
+- C, stdio.h, stdlib.h, time.h
 
 ---
 
@@ -53,10 +50,7 @@
 ---
 
 🧩 Technologies Used
-- C  
-- `stdio.h`  
-- `stdlib.h`  
-- `time.h`
+- C, stdio.h, stdlib.h, time.h
 
 ```bash
 gcc sayi_tahmin_oyunu.c -o sayi_tahmin_oyunu
@@ -64,5 +58,5 @@ gcc sayi_tahmin_oyunu.c -o sayi_tahmin_oyunu
 
 ---
 
-👨‍💻 **Developed by: Murat Kadir Yılmaz
+👨‍💻 Developed by: Murat Kadir Yılmaz
 📫 Contact: [LinkedIn](https://www.linkedin.com/in/muratkadiryilmaz/)
