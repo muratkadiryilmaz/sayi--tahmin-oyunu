@@ -11,14 +11,15 @@ int main() { // Rastgele sayı üreteci başlatılıyor (her çalıştırmada fa
     int tahmin; // Kullanıcının tahmini
     int sayac= 1; // Kaçıncı deneme olduğunu tutar
     int deneme= 10; // Toplam deneme hakkı
-    printf("=== SAYI TAHMIN OYUNU ===\n");  
+    printf("=== SAYI TAHMIN OYUNU ===\n"); // Oyunun ismi
+    // Oyun başlıyor..
     printf("1-1000 arasinda rastgele sayi secildi!\n");
     printf("10 Deneme hakkiniz bulunmaktadir.\n");
     printf("----------------------------------------\n");
     
     while(deneme > 0){ // Kullanıcının tahmin hakkı bitene kadar döngü devam eder.
-    printf("\n%d.Tahmini giriniz(Kalan deneme:%d):\n",sayac,deneme);
-    scanf("%d",&tahmin);
+    printf("\n%d.Tahmini giriniz(Kalan deneme:%d):\n",sayac,deneme); // Tahmin ister.
+    scanf("%d",&tahmin); // Tahminleri alır.
 
     if(tahmin == sayi){ // Eğer tahmin doğruysa oyunu bitir.
         printf("Tebrikler! Random sayi %d.tahminde bulundu.\n",sayac);
@@ -38,6 +39,7 @@ int main() { // Rastgele sayı üreteci başlatılıyor (her çalıştırmada fa
     if(deneme == 0){ // Deneme hakkı bittiyse kullanıcıya doğru sayıyı göster.
         printf("Basarisiz! (Deneme hakkiniz bitti.) Dogru sayi: %d\n",sayi);
     }
-    printf("\n=== OYUN BITTI ===\n");
+    printf("\n=== OYUN BITTI ===\n"); // oyunun bittiğine dair bildiri.
     return 0;
 }
+
