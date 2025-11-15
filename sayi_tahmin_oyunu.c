@@ -1,3 +1,5 @@
+/* Murat Kadir Yılmaz Computer Engineering Student sayı tahmin oyunu:
+Kullanıcının 1-1000 arasında rastgele bir sayıyı 10 denemede tahmin ettiği basit bir oyun. */
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
