@@ -22,7 +22,7 @@ int main() { // Rastgele sayı üreteci başlatılıyor (her çalıştırmada fa
     scanf("%d",&tahmin); // Tahminleri alır.
 
     if(tahmin == sayi){ // Eğer tahmin doğruysa oyunu bitir.
-        printf("Tebrikler! Random sayi %d.tahminde bulundu.\n",sayac);
+        printf("Tebrikler! Rastgele sayi %d.tahminde bulundu.\n",sayac);
         break;
     }
     // Tahmin yanlışsa ipucu ver.
@@ -42,4 +42,5 @@ int main() { // Rastgele sayı üreteci başlatılıyor (her çalıştırmada fa
     printf("\n=== OYUN BITTI ===\n"); // oyunun bittiğine dair bildiri.
     return 0;
 }
+
 
