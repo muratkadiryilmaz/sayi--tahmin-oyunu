@@ -1,4 +1,4 @@
-# 🎯 Sayı Tahmin Oyunu (C Dili)
+# 🎯 Sayı Tahmin Oyunu (C)
 
 📅 **Tarih:** 15.11.2025  
 🔗 **GitHub:** [github.com/muratkadiryilmaz/sayi--tahmin-oyunu](https://github.com/muratkadiryilmaz/sayi--tahmin-oyunu)  
@@ -28,7 +28,7 @@
 
 # 🌍 English Version
 
-## 🎯 Number Guessing Game (C Language)
+## 🎯 Number Guessing Game (C)
 
 📅 **Date:** November 15, 2025  
 🔗 **GitHub:** [github.com/muratkadiryilmaz/sayi--tahmin-oyunu](https://github.com/muratkadiryilmaz/sayi--tahmin-oyunu)  
